@@ -1,0 +1,2 @@
+= Schreiben Basic
+Ein neuer Blog Eintrag muss eingeleitet werden mit einem Titel. Die Erste Zeile (Titel) muss wie folgt aufgebaut sein: Gleichheitszeichen, dann der Titel. In den folgenden Zeilen folgt der Blog Text.
