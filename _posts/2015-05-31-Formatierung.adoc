@@ -1,0 +1,30 @@
+= Formatierung
+
+Es scheint nötig, dass ein Blog-Eintrag mit einer h1-Überschrift beginnt. Das geht ganz einfach, indem als erstes Zeichen ein Gleichheitszeichen steht, danach ein Leerzeichen (Wortabstand) zum Titel.  Dann muss eine Leerzeile folgen. Dann folgt dieser Textabschnitt. 
+
+= Zwischenüberschriften
+
+Zwischenüberschriften verschiedener Ordnungen werden vergleichbar gebildet. Nach einer Leerzeile folgt eine Zeile, die mit ein bis sechs Gleichheitszeichen beginnt. Das ist die Zwischenüberschriftzeile. Die Anzahl der Gleichheitszeichen bestimmt den Rang der Überschrift: *ein* Gleichheitszeichen leitet die *höchste* Überschrift ein, was in html einer *<h1>* Überschrift entspricht. 
+
+
+== Zwei Gleichheitszeichen: h2
+
+*Zwei* Gleichheitszeichen zu Beginn einer Zeile leiten einen Überschrift zweiten Ranges ein (*<h2>*). Das geht so weiter bis zu
+
+====== Sechs Gleichheitszeichen: h6
+
+Eine Überschrift sechsten Ranges.
+
+=== Betonungen im Fließtext 
+
+Indem du ein Wort mit Unterstrichen umschließt, wird es _betont_ (_kursiv_) dargestellt. 
+Wenn ein Wort mit Sternen umschlossen wird, wird es *stark betont* (*fett*).
+
+=== Verweise (Links)
+
+Wenn du beispielsweise die URL _http://teilauto-hall.de_ als funktionsfähigen Link einbauen will, musst du zwei Dinge tun: (1). dem vollständigen URL ein "_link:_" voranstellen  und (2). dem URL einen Namen geben, indem du an den URL unmittelbar einen Namen anhängst, der in eckigen Klammern stehen muss. 
+Beispiel: link:http://teilauto-hall.de[TeilAuto-hall.de]
+
+
+
+
