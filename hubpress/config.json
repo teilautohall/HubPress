@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "teilautohall",
-    "repositoryName": "teilautohall.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"teilautohall","repositoryName":"teilautohall.github.io","branch":"master"},"site":{"title":"Neuigkeiten","description":"Ankündigungen, Veröffentlichungen, Änderungen für die Nutzung der TeilAutos Schwäbisch Hall.","logo":"file:///home/klaus8/1Dokumente/Teilauto/Werbe/TeilAuto-LogoV.pdf","postsPerPage":"40","url":"https://teilautohall.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//teilautohall.github.io/themes/Casper"}}
